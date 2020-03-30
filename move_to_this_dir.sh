@@ -2,4 +2,4 @@
 
 date=`date "+%Y/%m/%d-%H:%M:%S"`
 echo $date
-mv /Users/reyn/Downloads/*.jpg ./ && git commit -am "$date" && git push
+mv /Users/reyn/Downloads/*.jpg ./ && git add ./ && git commit -am "$date" && git push
