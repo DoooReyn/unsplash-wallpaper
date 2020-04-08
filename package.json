@@ -1,0 +1,26 @@
+{
+  "name": "splash-wallpaper",
+  "version": "1.0.0",
+  "description": "个人私藏的壁纸，全部素材取自于 [Unsplash](https://unsplash.com/)。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoooReyn/unsplash-wallpaper.git"
+  },
+  "keywords": [
+    "splash",
+    "wallpaper"
+  ],
+  "author": "doooreyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoooReyn/unsplash-wallpaper/issues"
+  },
+  "homepage": "https://github.com/DoooReyn/unsplash-wallpaper#readme",
+  "dependencies": {
+    "unsplash-js": "^6.0.0"
+  }
+}
