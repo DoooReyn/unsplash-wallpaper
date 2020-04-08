@@ -4,14 +4,14 @@
   "description": "个人私藏的壁纸，全部素材取自于 [Unsplash](https://unsplash.com/)。",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "random": "node ./random/index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DoooReyn/unsplash-wallpaper.git"
   },
   "keywords": [
-    "splash",
+    "unsplash",
     "wallpaper"
   ],
   "author": "doooreyn",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/DoooReyn/unsplash-wallpaper#readme",
   "dependencies": {
+    "node-fetch": "^2.6.0",
     "unsplash-js": "^6.0.0"
   }
 }
