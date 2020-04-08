@@ -22,6 +22,7 @@
   "homepage": "https://github.com/DoooReyn/unsplash-wallpaper#readme",
   "dependencies": {
     "node-fetch": "^2.6.0",
+    "request": "^2.88.2",
     "unsplash-js": "^6.0.0"
   }
 }
